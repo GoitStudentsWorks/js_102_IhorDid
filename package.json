@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/return-js/",
+    "build": "vite build --base=/js_102_IhorDid/",
     "preview": "vite preview"
   },
   "devDependencies": {
